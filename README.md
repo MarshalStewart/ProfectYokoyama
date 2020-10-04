@@ -1,2 +1,2 @@
-# ProfectYokoyama
+# ProjectYokoyama
 MakeUC2020
